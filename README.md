@@ -35,8 +35,8 @@ I'm a third-year Electronics and Telecommunication Engineering student passionat
 
 ## 📫 Connect
 
-- [LinkedIn](www.linkedin.com/in/
+- [LinkedIn] : (www.linkedin.com/in/
 deep-khandelwal-203174315)
-- [Email](deepkhandelwal021@gmail.com)
+- [Email] : (deepkhandelwal021@gmail.com)
 
 Let’s collaborate! 😄
