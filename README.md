@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub
 
-I'm a third-year Electronics and Telecommunication Engineering student passionate about **Machine Learning**, **IoB (Internet of Behaviors)**, **IoT**, and **algorithm optimization**. My projects include solutions in healthcare, e-commerce, finance, and data analysis.
+I'm a B.Tech Electronics and Telecommunication Engineering student passionate about **Machine Learning**, **IoB (Internet of Behaviors)**, **IoT**, and **algorithm optimization**. My projects include solutions in healthcare, e-commerce, finance, and data analysis.
 
 ---
 
